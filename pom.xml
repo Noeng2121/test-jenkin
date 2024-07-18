@@ -74,7 +74,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>jenkin-test</finalName>
+		<finalName>jenkinn-test</finalName>
 	</build>
 
 </project>
